@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Alizon Yujra</h1>
 <p align="center">
   <img src="baner.png.png" alt="Alizon Yujra" width="100%">
 </p>
@@ -75,12 +74,14 @@ my skills in web development and JavaScript.
 
   <a href="https://www.instagram.com/edith_yt_0710/">
     <img src="https://skillicons.dev/icons?i=instagram" width="45">
+    <strong>edith_yt_0710</strong>
   </a>
 
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="mailto:yujraalizon31@gmail.com">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="45">
+    <strong> yujraalizon31@gmail.com</strong>
   </a>
 
 
