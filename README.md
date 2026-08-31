@@ -1,82 +1,35 @@
-# Hi, I'm Alizon Yujra 👋
+<!-- ======================= BANNER ======================= -->
 
-<h3 align="center">
-  Building knowledge, developing skills, and transforming ideas into solutions.
-</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=220&section=header&text=ALIZON%20YUJRA&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Public%20Accounting%20%7C%20Computer%20Systems%20%7C%20Web%20Development&descAlignY=58&descSize=18" />
+</p>
+
+<!-- ======================= PRESENTATION ======================= -->
+
+<h1 align="center">👋 Hi, I'm Alizon Yujra</h1>
+
+<p align="center">
+  <b>🎓 Public Accounting & Computer Systems Student from Bolivia 🇧🇴</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;I'm+learning+Web+Development+%F0%9F%8C%90;I'm+learning+Python+%F0%9F%90%8D;I'm+learning+Git+%26+GitHub+%F0%9F%90%99;Building+projects+and+learning+every+day+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yujraalizon31-boop&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a student from Trinidad, Beni, Bolivia, currently studying Information Systems and Public Accounting.
-
-I'm interested in technology, programming, data analysis, and the development of efficient digital solutions. I enjoy learning new technologies, improving my skills, and turning ideas into practical projects.
-
-Currently, I'm focused on strengthening my programming knowledge and exploring new tools and technologies in the world of software development.
-
----
-
-## 🚀 Featured Project
-
-### 🧮 Web Counter
-
-A simple interactive web counter developed as a practical project to strengthen my knowledge of web development.
-
-**Technologies used:**
-
-- HTML
-- CSS
-- JavaScript
-
----
-
-## 💻 Languages & Technologies
-
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="45" height="45" alt="macOS"/>
-
-</p>
-
----
-
-## 📚 Currently Learning
-
-- Software development
-- Web development
-- Databases and SQL
-- Git and GitHub
-- Programming and problem solving
-- New technologies and development tools
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.instagram.com/edith_yt_0710/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40" alt="Instagram"/>
-</a>
-
-</p>
-
-📧 **Email:** yujraalizon31@gmail.com
-
-📸 **Instagram:** [@edith_yt_0710](https://www.instagram.com/edith_yt_0710/)
-
----
-
-### ✨ Always learning, always building.
+```text
+🎓 Student
+📊 Public Accounting
+💻 Computer Systems
+🌐 Web Development
+🐍 Python Programming
+🎮 Interactive Game Development
+🐙 Git & GitHub
+🇧🇴 Bolivia
