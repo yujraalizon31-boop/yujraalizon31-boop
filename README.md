@@ -72,7 +72,7 @@ my skills in web development and JavaScript.
 
 <h2 align="center">🌐 Connect With Me</h2>
 
-<p align="center">
+
   <a href="https://www.instagram.com/edith_yt_0710/">
     <img src="https://skillicons.dev/icons?i=instagram" width="45">
   </a>
@@ -82,7 +82,7 @@ my skills in web development and JavaScript.
   <a href="mailto:yujraalizon31@gmail.com">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="45">
   </a>
-</p>
+
 
 <p align="center">
   📸 <strong>@edith_yt_0710</strong>
