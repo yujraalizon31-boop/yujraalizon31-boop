@@ -4,66 +4,46 @@
 </p>
 
 <br>
-<h2>👩🏻‍💻 About Me</h2>
+<h2 align="center">🎓 Information Systems & Public Accounting Student</h2>
 
-<p>
-I'm <strong>Alizon Yujra</strong>, a student from Trinidad, Beni, Bolivia,
-passionate about technology, information systems, data and continuous learning.
-</p>
-
-<p>
-Currently studying <strong>Information Systems</strong> and
-<strong>Public Accounting</strong>, with an interest in creating practical
-solutions through technology, organization and analytical thinking.
-</p>
-
-<p>
-I enjoy learning new technologies, developing my skills and turning ideas
-into useful and efficient solutions.
+<p align="center">
+  Passionate about technology, data, organization and creating practical solutions.
 </p>
 
 ---
 
-<h2>💻 Tech Stack</h2>
+<h2>💻 Languages & Tools</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,mysql,git,github,vscode,linux,apple" />
 </p>
 
 <p align="center">
-  <strong>Web Development</strong> &nbsp;•&nbsp;
-  <strong>Programming</strong> &nbsp;•&nbsp;
-  <strong>Databases</strong> &nbsp;•&nbsp;
+  <strong>Web Development</strong>
+  &nbsp;•&nbsp;
+  <strong>Programming</strong>
+  &nbsp;•&nbsp;
+  <strong>Databases</strong>
+  &nbsp;•&nbsp;
   <strong>Development Tools</strong>
-</p>
-
----
-
-<h2>📚 Currently Learning</h2>
-
-<p align="center">
-
-| 🌐 Web Development | 🔧 Git & GitHub | 🗄️ Databases & SQL |
-|:---:|:---:|:---:|
-| 💻 Programming | 🧠 Problem Solving | 📊 Data Analysis |
-| 🚀 New Technologies | 📖 Continuous Learning | ⚙️ Development Tools |
-
 </p>
 
 ---
 
 <h2>🎯 Areas of Interest</h2>
 
-<p>
-
-🔹 Software & Web Development  
-🔹 Information Systems  
-🔹 Data & Information Management  
-🔹 Accounting & Data Analysis  
-🔹 Problem Solving & Logical Thinking  
-🔹 Technology & Digital Tools  
-🔹 Continuous Learning  
-
+<p align="center">
+  💻 Software & Web Development
+  &nbsp;•&nbsp;
+  🗂️ Information Systems
+  &nbsp;•&nbsp;
+  📊 Data & Information Management
+  &nbsp;•&nbsp;
+  🧮 Accounting & Data Analysis
+  &nbsp;•&nbsp;
+  🧠 Problem Solving
+  &nbsp;•&nbsp;
+  🚀 Technology & Innovation
 </p>
 
 ---
@@ -77,36 +57,31 @@ An interactive web counter developed as a practical project to strengthen
 my skills in web development and JavaScript.
 </p>
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-<p>
-<strong>What I practiced:</strong>
-</p>
-
-- 🎨 User interface design
-- ⚡ JavaScript interactions
-- 🔢 Dynamic counter functionality
-- 📱 Responsive structure
-- 🧩 Project organization
+<ul>
+  <li>🎨 User interface design</li>
+  <li>⚡ JavaScript interactions</li>
+  <li>🔢 Dynamic counter functionality</li>
+  <li>📱 Responsive web structure</li>
+</ul>
 
 ---
 
-<h2>🌐 Connect With Me</h2>
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
+  <a href="https://www.instagram.com/edith_yt_0710/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45">
+  </a>
 
-<a href="https://www.instagram.com/edith_yt_0710/">
-  <img src="https://skillicons.dev/icons?i=instagram" width="45">
-</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:yujraalizon31@gmail.com">
-  <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="45">
-</a>
-
+  <a href="mailto:yujraalizon31@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="45">
+  </a>
 </p>
 
 <p align="center">
