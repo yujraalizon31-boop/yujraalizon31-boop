@@ -1,52 +1,69 @@
-# Hi, I'm Alizon Yujra 👋
+<h1 align="center">Hi 👋, I'm Alizon Yujra</h1>
 
 <h3 align="center">
   Building knowledge, developing skills, and transforming ideas into solutions.
 </h3>
 
+<p align="center">
+  💻 Technology &nbsp; • &nbsp; 📊 Analysis &nbsp; • &nbsp; 🚀 Continuous Learning
+</p>
+
 ---
 
 ## 👩‍💻 About Me
 
-I'm a student from Trinidad, Beni, Bolivia, currently studying Information Systems and Public Accounting.
+I'm Alizon Yujra, a student from Trinidad, Beni, Bolivia, currently studying
+Information Systems and Public Accounting.
 
-I'm interested in technology, programming, data analysis, and the development of efficient digital solutions. I enjoy learning new technologies, improving my skills, and turning ideas into practical projects.
+I'm passionate about learning, technology, programming, and finding efficient
+ways to transform ideas into practical solutions.
 
-Currently, I'm focused on strengthening my programming knowledge and exploring new tools and technologies in the world of software development.
+I enjoy exploring new technologies, developing my skills, and continuously
+expanding my knowledge in the digital and technological field.
 
 ---
 
-## 🚀 Featured Project
+## 🎓 My Focus
 
-### 🧮 Web Counter
-
-A simple interactive web counter developed as a practical project to strengthen my knowledge of web development.
-
-**Technologies used:**
-
-- HTML
-- CSS
-- JavaScript
+- 💻 Software and web development
+- 📊 Data and information management
+- 🧠 Problem solving and logical thinking
+- 🔧 Development tools and technologies
+- 📚 Continuous learning
 
 ---
 
 ## 💻 Languages & Technologies
 
-<p align="left">
+<p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="45" height="45" alt="macOS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+
+</p>
+
+### 🛠️ Tools
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="50"/>
 
 </p>
 
@@ -54,29 +71,54 @@ A simple interactive web counter developed as a practical project to strengthen 
 
 ## 📚 Currently Learning
 
-- Software development
-- Web development
-- Databases and SQL
-- Git and GitHub
-- Programming and problem solving
-- New technologies and development tools
+I'm continuously working on improving my skills in:
+
+- 🌐 Web development
+- 💻 Programming
+- 🗄️ Databases and SQL
+- 🔀 Git and GitHub
+- 🧩 Problem solving
+- 🚀 New technologies and development tools
+
+---
+
+## 🚀 Featured Project
+
+### 🧮 Web Counter
+
+A simple interactive web counter created as a practical project
+to strengthen my web development skills.
+
+**Technologies:**
+
+`HTML` `CSS` `JavaScript`
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.instagram.com/edith_yt_0710/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40" alt="Instagram"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="45"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:yujraalizon31@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45"/>
 </a>
 
 </p>
 
-📧 **Email:** yujraalizon31@gmail.com
-
-📸 **Instagram:** [@edith_yt_0710](https://www.instagram.com/edith_yt_0710/)
+<p align="center">
+  📸 <b>Instagram:</b> @edith_yt_0710
+  <br>
+  📧 <b>Email:</b> yujraalizon31@gmail.com
+</p>
 
 ---
 
-### ✨ Always learning, always building.
+<h3 align="center">
+  ✨ Always learning, always building.
+</h3>
