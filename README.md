@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="baner.png.png" alt="Alizon Yujra" width="100%">
+  <img src="baner.png" alt="Alizon Yujra" width="100%">
 </p>
 <br>
 <h2 align="center">🎓 Information Systems & Public Accounting Student</h2>
