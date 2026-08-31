@@ -1,29 +1,49 @@
-# Hi there, I'm Alizon Yujra! 👋
+<h1 align="center">Hi 👋, I'm ALIZON YUJRA</h1>
 
-📍 **Trinidad, Beni - Bolivia**
+<p align="center">
+  <b>A passionate student of Public Accounting & Computer Systems from Bolivia 🇧🇴</b>
+</p>
 
-## 👩‍💻 Sobre mí
-Estudiante de Contaduría Pública y Sistemas Informáticos. Apasionada por la tecnología, la gestión financiera y el desarrollo de software.
-
-## 🛠️ Tecnologías y Herramientas
-
-### 📖 Aprendiendo actualmente:
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yujraalizon31-boop&label=Profile%20views&color=0e75b6&style=flat" alt="yujraalizon31-boop" />
+</p>
 
 ---
 
-## 🚀 Proyectos
-- **Sistema de Gestión Contable e Informática:** Proyecto académico enfocado en el análisis, control de datos e integración de herramientas digitales para procesos contables.
+### 🚀 About Me
+
+* 🎓 Currently studying **Public Accounting** & **Computer Systems**.
+* 🌱 I'm currently learning **Linux, macOS, Git, GitHub, JavaScript & Node.js**.
+* 📬 How to reach me: **yujraalizon31@gmail.com**
 
 ---
 
-## 🌐 Contacto y Redes
+### 🌐 Connect with me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yujraalizon31@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/edith_yt_0710)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@edith_yt6638)
+<p align="left">
+  <a href="mailto:yujraalizon31@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="35" alt="gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/edith_yt_0710" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="35" alt="instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tiktok.com/@edith_yt6638" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tiktok/default.svg" width="35" height="35" alt="tiktok" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="40" height="40"/>
+</p>
