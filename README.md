@@ -1,201 +1,82 @@
-<h1 align="center">Hi 👋, I'm</h1>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=ALIZON%20YUJRA&fontSize=45&fontColor=6C63FF&animation=fadeIn&fontAlignY=55" />
-</p>
-
-<p align="center">
-  <b>🎓 Public Accounting Student | 💻 Computer Systems Student</b>
-</p>
-
-<p align="center">
-  🇧🇴 Bolivia &nbsp; • &nbsp; 💻 Developer in progress &nbsp; • &nbsp; 🚀 Always learning
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yujraalizon31-boop&label=Profile%20Views&color=6C63FF&style=flat-square" />
-</p>
-
----
-
-## 👩🏻‍💻 About Me
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=21&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Public+Accounting+%26+Computer+Systems;Learning+Web+Development+%F0%9F%8C%90;Learning+Python+%F0%9F%90%8D;Building+my+skills+one+project+at+a+time+%F0%9F%9A%80" />
-</p>
-
-I'm **Alizon Yujra**, a student from **Bolivia 🇧🇴** interested in technology, programming, accounting and finance.
-
-🎓 Studying **Public Accounting** and **Computer Systems**.
-
-💻 Currently learning programming and web development.
-
-🐍 Working with Python and creating interactive projects.
-
-🌐 Learning HTML, CSS, JavaScript and Node.js.
-
-🐙 Exploring Git and GitHub to improve my development workflow.
-
----
-
-## 🌱 Currently Learning
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,python,git,github,vscode,linux" />
-
-</p>
-
----
-
-## 🧰 Languages & Tools
-
-<p align="center">
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=python" width="55"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=html" width="55"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=css" width="55"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=javascript" width="55"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=git" width="55"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=vscode" width="55"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=linux" width="55"/>
-</a>
-
-</p>
-
----
-
-## 🎮 Some Projects
-
-<table align="center">
-
-<tr>
-
-<td width="50%" align="center">
-
-### 🎡 Preguntados - Ruleta
-
-Interactive trivia game created with **Python & Pygame**.
-
-🎯 Categories  
-🎡 Roulette  
-❤️ Lives  
-⭐ Score  
-⏱️ Timer  
-
-</td>
-
-<td width="50%" align="center">
-
-### 🐍 La Viborita
-
-Classic Snake game developed with **Python**.
-
-🐍 Snake  
-🍎 Food  
-⭐ Score  
-🎮 Controls  
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-### ❌⭕ Tres en Raya
-
-Interactive Tic-Tac-Toe game.
-
-👥 Two players  
-🏆 Winner detection  
-🔄 Restart system  
-
-</td>
-
-<td width="50%" align="center">
-
-### 🌐 Web Projects
-
-Practicing web development with:
-
-HTML • CSS • JavaScript  
-Bootstrap • Bulma
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-## 📊 GitHub
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yujraalizon31-boop&show_icons=true&hide_border=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujraalizon31-boop&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
-
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:yujraalizon31@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/edith_yt_0710">
-<img src="https://img.shields.io/badge/Instagram-@edith_yt_0710-6C63FF?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://tiktok.com/@edith_yt6638">
-<img src="https://img.shields.io/badge/TikTok-@edith_yt6638-6C63FF?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
-
-</p>
-
----
+# Hi, I'm Alizon Yujra 👋
 
 <h3 align="center">
-
-✨ Learn • Create • Improve ✨
-
+  Building knowledge, developing skills, and transforming ideas into solutions.
 </h3>
 
-<p align="center">
-  <b>🇧🇴 Made with ❤️ from Bolivia</b>
+---
+
+## 👩‍💻 About Me
+
+I'm a student from Trinidad, Beni, Bolivia, currently studying Information Systems and Public Accounting.
+
+I'm interested in technology, programming, data analysis, and the development of efficient digital solutions. I enjoy learning new technologies, improving my skills, and turning ideas into practical projects.
+
+Currently, I'm focused on strengthening my programming knowledge and exploring new tools and technologies in the world of software development.
+
+---
+
+## 🚀 Featured Project
+
+### 🧮 Web Counter
+
+A simple interactive web counter developed as a practical project to strengthen my knowledge of web development.
+
+**Technologies used:**
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 💻 Languages & Technologies
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="45" height="45" alt="macOS"/>
+
 </p>
+
+---
+
+## 📚 Currently Learning
+
+- Software development
+- Web development
+- Databases and SQL
+- Git and GitHub
+- Programming and problem solving
+- New technologies and development tools
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.instagram.com/edith_yt_0710/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40" alt="Instagram"/>
+</a>
+
+</p>
+
+📧 **Email:** yujraalizon31@gmail.com
+
+📸 **Instagram:** [@edith_yt_0710](https://www.instagram.com/edith_yt_0710/)
+
+---
+
+### ✨ Always learning, always building.
