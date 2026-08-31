@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alizon Yujra</h1>
+<p align="center">
+  <img src="baner.png.png" alt="Alizon Yujra" width="100%">
+</p>
 
+<br>
 <h3 align="center">
   Building knowledge, developing skills, and transforming ideas into solutions.
 </h3>
