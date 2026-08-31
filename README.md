@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alizon Yujra</h1>
 <p align="center">
-  <img src="banner.png" alt="Alizon Yujra" width="100%">
+  <img src="banner.png.png" alt="Alizon Yujra" width="100%">
 </p>
 
 <br>
