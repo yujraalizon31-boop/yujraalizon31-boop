@@ -15,56 +15,44 @@
 I'm Alizon Yujra, a student from Trinidad, Beni, Bolivia, currently studying
 Information Systems and Public Accounting.
 
-I'm passionate about learning, technology, programming, and finding efficient
-ways to transform ideas into practical solutions.
+I'm passionate about technology, programming, learning new skills, and finding
+efficient ways to transform ideas into practical solutions.
 
-I enjoy exploring new technologies, developing my skills, and continuously
+I enjoy exploring new technologies, developing my abilities, and continuously
 expanding my knowledge in the digital and technological field.
 
 ---
 
-## 🎓 My Focus
+## 🎓 Areas of Interest
 
-- 💻 Software and web development
-- 📊 Data and information management
-- 🧠 Problem solving and logical thinking
-- 🔧 Development tools and technologies
-- 📚 Continuous learning
+- 💻 Software and Web Development
+- 📊 Data and Information Management
+- 🧠 Problem Solving and Logical Thinking
+- 🔧 Technology and Digital Tools
+- 📚 Continuous Learning
 
 ---
 
 ## 💻 Languages & Technologies
 
 <p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp" />
 </p>
 
-### 🗄️ Databases
+---
+
+## 🗄️ Databases
 
 <p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🛠️ Tools
+---
+
+## 🛠️ Tools & Environment
 
 <p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="50"/>
-
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,apple" />
 </p>
 
 ---
@@ -73,12 +61,12 @@ expanding my knowledge in the digital and technological field.
 
 I'm continuously working on improving my skills in:
 
-- 🌐 Web development
+- 🌐 Web Development
 - 💻 Programming
 - 🗄️ Databases and SQL
 - 🔀 Git and GitHub
-- 🧩 Problem solving
-- 🚀 New technologies and development tools
+- 🧩 Problem Solving
+- 🚀 New Technologies and Development Tools
 
 ---
 
@@ -86,39 +74,33 @@ I'm continuously working on improving my skills in:
 
 ### 🧮 Web Counter
 
-A simple interactive web counter created as a practical project
-to strengthen my web development skills.
+An interactive web counter created as a practical project to strengthen
+my knowledge and skills in web development.
 
-**Technologies:**
+**Technologies used:**
 
-`HTML` `CSS` `JavaScript`
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://www.instagram.com/edith_yt_0710/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="45"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:yujraalizon31@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45"/>
-</a>
-
+  <a href="https://www.instagram.com/edith_yt_0710/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+  </a>
 </p>
 
 <p align="center">
   📸 <b>Instagram:</b> @edith_yt_0710
-  <br>
+  <br><br>
   📧 <b>Email:</b> yujraalizon31@gmail.com
 </p>
 
 ---
 
 <h3 align="center">
-  ✨ Always learning, always building.
+  ✨ Always learning, always building. ✨
 </h3>
