@@ -1,47 +1,99 @@
-<!-- BANNER PRINCIPAL -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9C27B0&center=true&vCenter=true&width=500&lines=ALIZON+YUJRA;Accounting+%26+Systems+Student;Welcome+to+my+profile!+✨" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi 👋, I'm Alizon Yujra</h1>
 
-<!-- SUBTÍTULO Y CONTADOR DE VISITAS -->
-<p align="center">
-  <b>🇧🇴 Trinidad, Beni - Bolivia</b>
-</p>
+<h3 align="center">
+  Building knowledge, developing skills, and transforming ideas into solutions.
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yujraalizon31-boop&label=👁️%20Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Views" />
+  💻 Technology &nbsp; • &nbsp; 📊 Analysis &nbsp; • &nbsp; 🚀 Continuous Learning
+</p>
+
+---
+## 👩‍💻 About Me
+
+I'm Alizon Yujra, a student from Trinidad, Beni, Bolivia, currently studying
+Information Systems and Public Accounting.
+
+I'm passionate about technology, programming, learning new skills, and finding
+efficient ways to transform ideas into practical solutions.
+
+I enjoy exploring new technologies, developing my abilities, and continuously
+expanding my knowledge in the digital and technological field.
+
+---
+## 🎓 Areas of Interest
+
+- 💻 Software and Web Development
+- 📊 Data and Information Management
+- 🧠 Problem Solving and Logical Thinking
+- 🔧 Technology and Digital Tools
+- 📚 Continuous Learning
+
+---
+## 💻 Languages & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp" />
 </p>
 
 ---
 
-### 👩‍💻 About Me
-
-* 🎓 **Estudiante:** Contaduría Pública & Sistemas Informáticos.
-* 🛠️ **Aprendiendo actualmente:** Linux, macOS, JavaScript, Node.js, Git & GitHub.
-* 🎯 **Objetivo:** Automatización financiera y desarrollo web.
-
----
-
-### 🛠️ Tech Stack & Tools
+## 🗄️ Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,linux,apple,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 🛠️ Tools & Environment
 
 <p align="center">
-  <a href="mailto:yujraalizon31@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/edith_yt_0710">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://tiktok.com/@edith_yt6638">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,apple" />
+</p>
+
+---
+## 📚 Currently Learning
+
+I'm continuously working on improving my skills in:
+
+- 🌐 Web Development
+- 💻 Programming
+- 🗄️ Databases and SQL
+- 🔀 Git and GitHub
+- 🧩 Problem Solving
+- 🚀 New Technologies and Development Tools
+
+---
+## 🚀 Featured Project
+
+### 🧮 Web Counter
+
+An interactive web counter created as a practical project to strengthen
+my knowledge and skills in web development.
+
+**Technologies used:**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+---
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.instagram.com/edith_yt_0710/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
   </a>
 </p>
+
+<p align="center">
+  📸 <b>Instagram:</b> @edith_yt_0710
+  <br><br>
+  📧 <b>Email:</b> yujraalizon31@gmail.com
+</p>
+
+---
+<h3 align="center">
+  ✨ Always learning, always building. ✨
+</h3>
