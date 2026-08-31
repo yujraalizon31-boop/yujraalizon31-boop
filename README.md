@@ -1,16 +1,11 @@
 <p align="center">
   <img src="baner.png.png" alt="Alizon Yujra" width="100%">
 </p>
-
 <br>
 <h2 align="center">🎓 Information Systems & Public Accounting Student</h2>
-
 <p align="center">
   Passionate about technology, data, organization and creating practical solutions.
 </p>
-
----
-
 <h2>💻 Languages and Tools</h2>
 
 <p align="center">
