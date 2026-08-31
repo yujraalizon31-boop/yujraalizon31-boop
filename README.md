@@ -1,103 +1,54 @@
-<h1 align="center">Hi 👋, I'm Alizon Yujra</h1>
+<!-- BANNER PROFESIONAL -->
 <p align="center">
-  <img src="banner.png.png" alt="Alizon Yujra" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Header Banner" />
 </p>
 
-<br>
-<h3 align="center">
-  Building knowledge, developing skills, and transforming ideas into solutions.
-</h3>
-
+<!-- MÁQUINA DE ESCRIBIR INTERACTIVA -->
 <p align="center">
-  💻 Technology &nbsp; • &nbsp; 📊 Analysis &nbsp; • &nbsp; 🚀 Continuous Learning
-</p>
-
----
-## 👩‍💻 About Me
-
-I'm Alizon Yujra, a student from Trinidad, Beni, Bolivia, currently studying
-Information Systems and Public Accounting.
-
-I'm passionate about technology, programming, learning new skills, and finding
-efficient ways to transform ideas into practical solutions.
-
-I enjoy exploring new technologies, developing my abilities, and continuously
-expanding my knowledge in the digital and technological field.
-
----
-## 🎓 Areas of Interest
-
-- 💻 Software and Web Development
-- 📊 Data and Information Management
-- 🧠 Problem Solving and Logical Thinking
-- 🔧 Technology and Digital Tools
-- 📚 Continuous Learning
-
----
-## 💻 Languages & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp" />
-</p>
-
----
-
-## 🗄️ Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
----
-
-## 🛠️ Tools & Environment
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,apple" />
-</p>
-
----
-## 📚 Currently Learning
-
-I'm continuously working on improving my skills in:
-
-- 🌐 Web Development
-- 💻 Programming
-- 🗄️ Databases and SQL
-- 🔀 Git and GitHub
-- 🧩 Problem Solving
-- 🚀 New Technologies and Development Tools
-
----
-## 🚀 Featured Project
-
-### 🧮 Web Counter
-
-An interactive web counter created as a practical project to strengthen
-my knowledge and skills in web development.
-
-**Technologies used:**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
----
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.instagram.com/edith_yt_0710/">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=ALIZON+YUJRA;Contadur%C3%ADa+P%C3%BAblica+%26+Sistemas;Estudiante+de+Desarrollo+Web+%26+Tech;Bienvenid%40+a+mi+perfil+de+GitHub!+🚀" alt="Typing SVG" />
   </a>
 </p>
 
+<!-- CONTADOR DE VISITAS Y UBICACIÓN -->
 <p align="center">
-  📸 <b>Instagram:</b> @edith_yt_0710
-  <br><br>
-  📧 <b>Email:</b> yujraalizon31@gmail.com
+  📍 <b>Trinidad, Beni - Bolivia</b> 🇧🇴
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yujraalizon31-boop&label=👁️%20Visitas%20al%20Perfil&color=0284c7&style=for-the-badge" alt="Views" />
 </p>
 
 ---
-<h3 align="center">
-  ✨ Always learning, always building. ✨
-</h3>
+
+### 👩‍💻 Sobre Mí
+
+* 🎓 **Formación:** Estudiante de **Contaduría Pública** y **Sistemas Informáticos**.
+* 🛠️ **Aprendiendo actualmente:** Linux, macOS, JavaScript, Node.js, Git & GitHub.
+* 🎯 **Objetivo:** Integración de soluciones informáticas con gestión financiera y contable.
+
+---
+
+### 🛠️ Tecnologías & Herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,linux,apple,vscode,powershell&theme=dark" />
+</p>
+
+---
+
+### 🌐 Redes & Contacto
+
+<p align="center">
+  <a href="mailto:yujraalizon31@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/edith_yt_0710" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tiktok.com/@edith_yt6638" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+</p>
