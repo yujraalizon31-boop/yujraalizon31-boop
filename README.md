@@ -68,30 +68,29 @@ my skills in web development and JavaScript.
 </ul>
 
 ---
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
 
-  <a href="https://www.instagram.com/edith_yt_0710/">
+  <a href="https://www.instagram.com/edith_yt_0710/" style="text-decoration: none; color: inherit;">
     <img src="https://skillicons.dev/icons?i=instagram" width="45">
     <br>
-    <strong>@edith_yt_0710</strong>
+    <span style="color: inherit;">
+      <strong>@edith_yt_0710</strong>
+    </span>
   </a>
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:yujraalizon31@gmail.com">
+  <a href="mailto:yujraalizon31@gmail.com" style="text-decoration: none; color: inherit;">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="45">
     <br>
-    <strong>yujraalizon31@gmail.com</strong>
+    <span style="color: inherit;">
+      <strong>yujraalizon31@gmail.com</strong>
+    </span>
   </a>
 
 </p>
----
 
 <p align="center">
   <strong>✨ Learning today, building tomorrow. ✨</strong>
